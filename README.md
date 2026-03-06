@@ -37,4 +37,7 @@ Evaluasi model menggunakan:
 
 ## Tujuan
 Membuat model Machine Learning dengan akurasi minimal R² ≥ 85% tanpa menggunakan Deep Learning.
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2cf73ff2f7fcedc90363085bbaefc3ff848b545
